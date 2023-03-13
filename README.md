@@ -19,12 +19,18 @@ This is the proposed solution for movie explorer exercise
 
 #### How to Run the Project
 
+#### Frontend
+    cd ./application
     yarn start
 
+#### Backend
+    cd ./service
+    yarn start
+    
 #### How to Run StoryBook
-
+    cd ./application
     yarn storybook
 
 #### How to Run test
-
+    cd ./application
     yarn test
