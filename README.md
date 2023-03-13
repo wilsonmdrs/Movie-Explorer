@@ -14,6 +14,7 @@ This is the proposed solution for movie explorer exercise
 
 - `React` with `Typescript`
 - `StoryBook`
+- `styled-components`
 - Unit Test with `Jest` and `RTL` for some components
 - `React Query` and `Axios` to handle Api Request
 
