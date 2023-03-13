@@ -1,6 +1,6 @@
 # Movie explorer 🎥
 
-This is proposed solution for movie explorer exercise
+This is the proposed solution for movie explorer exercise
 
 ### What was Implemented:
 
